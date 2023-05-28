@@ -1,0 +1,19 @@
+1. Ketika user gagal maupun berhasil mengisi form, akan muncul pesan validasi di bawah layar, yang akan langsung hilang setelah beberapa detik. (misalkan saat mengisi form sign in, sign up, profile, change password, dan change profile)
+
+2. Saat user berada pada halaman selain home, maka user dapat menekan tombol < pada kiri halaman untuk kembali ke halaman home. Tombol tersebut memiliki interaksi berubah dynamic panel ketika mouse enter dan exit. Pada halaman news dan about us, user juga bisa melakukan swipe kanan untuk kembali ke halaman home. 
+
+3. Pada halaman profile dalam bagian topic preference, terdapat berbagai checkbox yang berisikan topik berita/artikel. Topik yang dipilih akan langsung muncul ke bagian reccomendation pada halaman home. Bila tidak ada topik yang dipilih, maka akan ada pesan validasi bahwa user belum memasukkan topic preference dan bila ditekan akan mengalihkan user ke halaman profile.
+
+4. Pada halaman home, terdapat tab sub-menu yang memiliki pilihan seperti 'trending' dan 'breaking news'. Bila user telah login, maka akan ditampilkan opsi tambahan yakni 'recommendation'. Bila user menekan pilihan pada sub-menu tersebut, maka akan terjadi auto-scroll dengan target label judul bagian tersebut.
+
+5. Pada halaman login/sign up, ada fitur tab control yang memisahkan form login dan sign up. Pada hal ini, ketika user memilih opsi login, maka tombol tab control login akan berubah menjadi warna biru dan tombol tab control sign up akan berubah menjadi warna putih. Demikian sebaliknya.
+
+6. Pilihan berita yang ditekan oleh user pada halaman home akan ditampilkan berita lengkapnya di halaman news.
+
+7. Pada halaman profile, bila user menekan tombol 'choose profile picture' atau 'change password', maka akan muncul modal profile atau modal password. Lalu, dalam modal tersebut, terdapat tombol x yang dapat ditekan untuk menutup modal. User juga dapat membuka profile modal dengan cara menekan gambar profile picture.
+
+8. Pada halaman profile bagian profile modal, terdapat image carrousel dimana user dapat mengganti gambar profile sesuai gambar yang diinginkan. Pergantian gambar dapat dilakukan dengan cara menekan tombol arah panah atau user dapat melakukan swipe kiri atau kanan.
+
+9. Ketika user melakukan login, maka beberapa fitur akan berubah, seperti terdapat perubahan pada menu sidebar, lalu munculnya bagian welcome dan recommendation pada halaman home.
+
+10. Pada phone layout, waktu telah disetting otomatis untuk mengikuti waktu terkini, lalu bisa menekan tombol back untuk kembali dan tombol home untuk kembali ke halaman home.
